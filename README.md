@@ -15,4 +15,4 @@ Data Merging and Joining: How to combine datasets efficiently.
 
 Data Visualization with Pandas: Plotting data directly using Pandas’ integration with Matplotlib.
 
- # PANDAS RESOURCE_LINK : https://www.linkedin.com/posts/gajwalliganeshkumar_automobileanalysis-activity-7292445272004079616-QA0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAADg7owgBDZeDQ6jj0QztyBQ7MIvUUK6DRu0
+ PANDAS RESOURCE_LINK : https://www.linkedin.com/posts/gajwalliganeshkumar_automobileanalysis-activity-7292445272004079616-QA0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAADg7owgBDZeDQ6jj0QztyBQ7MIvUUK6DRu0
