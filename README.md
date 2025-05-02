@@ -1,6 +1,6 @@
 # Pandas in Python: A Comprehensive Guide
-Overview
-This repository contains the content of my LinkedIn blog post that explores Pandas, the powerful Python library used for data manipulation and analysis. In this blog, Igone through into the key features and functionalities of Pandas, providing examples of how it simplifies complex data operations. Whether you're a beginner or someone looking to refine your skills, this blog post offers practical insights into working with DataFrames, Series, and various Pandas functions.
+
+ Content of my LinkedIn blog post that explores Pandas, the powerful Python library used for data manipulation and analysis. In this blog, Igone through into the key features and functionalities of Pandas, providing examples of how it simplifies complex data operations. Whether you're a beginner or someone looking to refine your skills, this blog post offers practical insights into working with DataFrames, Series, and various Pandas functions.
 
 # Key Topics Covered
 Introduction to Pandas: Overview of the library, installation, and setup.
